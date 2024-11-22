@@ -33,4 +33,4 @@ To explore a specific project, navigate to the corresponding repository linked a
 To clone a specific repository, use the following command in your terminal:
 
 ```bash
-git clone https://github.com/yourusername/study-projects.git
+git clone https://github.com/rdcar/study-projects.git
