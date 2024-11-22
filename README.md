@@ -21,6 +21,7 @@ Below is a list of the project repositories included in this collection:
 
 1. [Hacker News Exploratory Data Analysis](https://github.com/rdcar/study-projects/tree/main/hacker-news-eda)
 2. [Predicting the Weather Using Machine Learning](https://github.com/rdcar/study-projects/tree/main/weather-prediction)
+3. [Predicting Spam Emails Using Machine Learning](https://github.com/rdcar/study-projects/tree/main/spam-detector)
 
 ## How to Use This Repository
 
@@ -31,4 +32,4 @@ To explore a specific project, navigate to the corresponding repository linked a
 To clone a specific repository, use the following command in your terminal:
 
 ```bash
-git clone https://github.com/yourusername/<study-projects>.git
+git clone https://github.com/yourusername/study-projects.git
