@@ -20,6 +20,7 @@ The purpose of this repository is to organize and showcase my journey and progre
 Below is a list of the project repositories included in this collection:
 
 1. [Hacker News Exploratory Data Analysis](https://github.com/rdcar/study-projects/tree/main/hacker-news-eda)
+2. [Predicting the Weather Using Machine Learning](https://github.com/rdcar/study-projects/tree/main/weather-prediction)
 
 ## How to Use This Repository
 
