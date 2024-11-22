@@ -22,6 +22,7 @@ Below is a list of the project repositories included in this collection:
 1. [Hacker News Exploratory Data Analysis](https://github.com/rdcar/study-projects/tree/main/hacker-news-eda)
 2. [Predicting the Weather Using Machine Learning](https://github.com/rdcar/study-projects/tree/main/weather-prediction)
 3. [Predicting Spam Emails Using Machine Learning](https://github.com/rdcar/study-projects/tree/main/spam-detector)
+4. [Analysis of Public Travel Expenses in Brazil](https://github.com/rdcar/study-projects/tree/main/federal-travel-spending-breakdown)
 
 ## How to Use This Repository
 
