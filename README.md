@@ -1,4 +1,4 @@
-# Study Projects Summary
+# Data Science Study Projects Summary
 
 Welcome to the **Study Projects** repository! This is a centralized hub for all my data science study projects. Here, you'll find a collection of individual repositories, each dedicated to a specific project or area of study within the field of data science.
 
