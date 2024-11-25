@@ -7,9 +7,10 @@ The purpose of this repository is to organize and showcase my journey and progre
 ## Project Repositories Sumary
 
 1. [Hacker News Exploratory Data Analysis](https://github.com/rdcar/hacker-news-eda)
-2. [Predicting the Weather Using Machine Learning](https://github.com/rdcar/weather-prediction)
-3. [Predicting Spam Emails Using Machine Learning](https://github.com/rdcar/spam-detector)
-4. [Analysis of Public Travel Expenses in Brazil](https://github.com/rdcar/federal-travel-spending-breakdown)
+2. [Bank Credit Card Churn Analysis (EDA)](https://github.com/rdcar/credit-card-churn-analysis)
+3. [Predicting the Weather Using Machine Learning](https://github.com/rdcar/weather-prediction)
+4. [Predicting Spam Emails Using Machine Learning](https://github.com/rdcar/spam-detector)
+5. [Analysis of Public Travel Expenses in Brazil](https://github.com/rdcar/federal-travel-spending-breakdown)
 
 ## How to Use This Repository
 
