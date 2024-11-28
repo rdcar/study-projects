@@ -11,6 +11,7 @@ The purpose of this repository is to organize and showcase my journey and progre
 3. [Predicting the Weather Using Machine Learning](https://github.com/rdcar/weather-prediction)
 4. [Predicting Spam Emails Using Machine Learning](https://github.com/rdcar/spam-detector)
 5. [Analysis of Public Travel Expenses in Brazil](https://github.com/rdcar/federal-travel-spending-breakdown)
+6. [Formação Plena em Análise e Ciência de Dados (Udemy)](https://github.com/rdcar/formacao-plena-analise-e-ciencia-de-dados-projects)
 
 ## How to Use This Repository
 
