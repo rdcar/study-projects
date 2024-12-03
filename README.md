@@ -8,10 +8,11 @@ The purpose of this repository is to organize and showcase my journey and progre
 
 1. [Hacker News Exploratory Data Analysis](https://github.com/rdcar/hacker-news-eda)
 2. [Bank Credit Card Churn Analysis (EDA)](https://github.com/rdcar/credit-card-churn-analysis)
-3. [Predicting the Weather Using Machine Learning](https://github.com/rdcar/weather-prediction)
-4. [Predicting Spam Emails Using Machine Learning](https://github.com/rdcar/spam-detector)
-5. [Analysis of Public Travel Expenses in Brazil](https://github.com/rdcar/federal-travel-spending-breakdown)
-6. [Formação Plena em Análise e Ciência de Dados (Udemy)](https://github.com/rdcar/formacao-plena-analise-e-ciencia-de-dados-projects)
+3. [Titanic Kaggle Competition](https://github.com/rdcar/titanic)
+4. [Predicting the Weather Using Machine Learning](https://github.com/rdcar/weather-prediction)
+5. [Predicting Spam Emails Using Machine Learning](https://github.com/rdcar/spam-detector)
+6. [Analysis of Public Travel Expenses in Brazil](https://github.com/rdcar/federal-travel-spending-breakdown)
+7. [Formação Plena em Análise e Ciência de Dados (Udemy)](https://github.com/rdcar/formacao-plena-analise-e-ciencia-de-dados-projects)
 
 ## How to Use This Repository
 
