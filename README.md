@@ -13,6 +13,30 @@ The purpose of this repository is to organize and showcase my journey and progre
 5. [Predicting Spam Emails Using Machine Learning](https://github.com/rdcar/spam-detector)
 6. [Analysis of Public Travel Expenses in Brazil](https://github.com/rdcar/federal-travel-spending-breakdown)
 7. [Formação Plena em Análise e Ciência de Dados (Udemy)](https://github.com/rdcar/formacao-plena-analise-e-ciencia-de-dados-projects)
+8. [Predicting cancer using RNA-seq](https://github/rdcar/cancer-predict-RNA)
+
+## Project Description
+
+This repository is dedicated to a study project focused on predicting cancer based on RNA sequencing data. The data were collected from [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/ccg/research/genome-sequencing/tcga), an international program that characterizes over 33 types of cancer. Each row represents a sample from an individual, with columns representing different microRNAs and their expression levels. Expression values range from $[0, \infty]$, where values close to zero indicate low expression and higher values indicate high expression. Labels include TP (primary solid tumor) indicating cancer and NT (normal tissue).
+
+## Objective
+
+The goal of this project is to build a model to predict cancer presence based on RNA sequencing data.
+
+## Data Sources
+
+1. [The Cancer Genome Atlas Program](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)
+2. [Micro RNA](https://en.wikipedia.org/wiki/MicroRNA_sequencing)
+3. [Sklearn Pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
+
+## Future Work
+
+As my studies progress, I will continue to improve the model's hyperparameters and experiment with different algorithms to enhance prediction accuracy.
+
+---
+
+Happy coding and researching!
+]
 
 ## How to Use This Repository
 
