@@ -13,7 +13,7 @@ The purpose of this repository is to organize and showcase my journey and progre
 5. [Predicting Spam Emails Using Machine Learning](https://github.com/rdcar/spam-detector)
 6. [Analysis of Public Travel Expenses in Brazil](https://github.com/rdcar/federal-travel-spending-breakdown)
 7. [Formação Plena em Análise e Ciência de Dados (Udemy)](https://github.com/rdcar/formacao-plena-analise-e-ciencia-de-dados-projects)
-8. [Predicting cancer using RNA-seq](https://github/rdcar/cancer-predict-RNA)
+8. [Predicting cancer using RNA-seq](https://github.com/rdcar/cancer-predict-RNA)
 
 ## How to Use This Repository
 
