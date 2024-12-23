@@ -14,6 +14,7 @@ The purpose of this repository is to organize and showcase my journey and progre
 6. [Analysis of Public Travel Expenses in Brazil](https://github.com/rdcar/federal-travel-spending-breakdown)
 7. [Formação Plena em Análise e Ciência de Dados (Udemy)](https://github.com/rdcar/formacao-plena-analise-e-ciencia-de-dados-projects)
 8. [Predicting cancer using RNA-seq](https://github.com/rdcar/cancer-predict-RNA)
+9. [Traffic accidents in Porto Alegre / RS - Brazil](https://github.com/rdcar/acidentes-poa)
 
 ## How to Use This Repository
 
